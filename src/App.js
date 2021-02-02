@@ -6,6 +6,8 @@ import Blog from "./components/BlogGrid";
 import SingleBlog from "./components/SingleBlog";
 import NavBar from "./components/NavBar.js";
 
+import "./app.css";
+
 function App() {
 	return (
 		<BrowserRouter>
