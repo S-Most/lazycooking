@@ -1,3 +1,12 @@
 export default function SingleBlog() {
-	return <div>Blog (single)</div>;
+
+// couple client Sanity
+
+// fetch
+
+	return (
+		//html markup with $entries
+
+		<div> Blog (single) </div>
+	);
 }
